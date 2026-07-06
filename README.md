@@ -3,7 +3,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<p data-importer="text" align="left">My name is Valentina Kuxhausen and I'm a Software Developer with Cloud Engineering Experience, from Germany.</p>
 
 ###
 
