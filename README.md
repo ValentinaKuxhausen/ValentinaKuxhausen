@@ -15,7 +15,7 @@ Fork on Github
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning python with django and DevOps/ Cloud Engineering<br>🎯 Goals: getting better as Full Stack Developer and as a Cloud Engineer<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">📚 I'm currently learning python with django and cloud engineering<br>🎯 Goals: getting better as Full Stack Developer and as a Cloud Engineer<br></p>
 
 ###
 
@@ -28,7 +28,7 @@ Fork on Github
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="angular logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/angular-original.svg" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
