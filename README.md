@@ -15,7 +15,7 @@ Fork on Github
 
 ###
 
-<p data-importer="text" align="left">📚 I'm currently learning python with django and cloud engineering<br>🎯 Goals: getting better as Full Stack Developer and as a Cloud Engineer<br></p>
+<p data-importer="text" align="left">📚 I'm currently learning python with django and cloud engineering<br>🎯 Goals: getting better as Full Stack Developer and as Cloud Engineer<br></p>
 
 ###
 
